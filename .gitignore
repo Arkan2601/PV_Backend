@@ -1,0 +1,5 @@
+
+*.dll
+/bin
+/bin/Debug/net8.0
+/obj
